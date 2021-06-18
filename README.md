@@ -1,7 +1,6 @@
 # react-datatable
 
-[![npm version](https://img.shields.io/npm/v/@ashvin27/react-datatable.svg)](https://www.npmjs.com/package/@ashvin27/react-datatable)
-[![Known Vulnerabilities](https://snyk.io/test/github/ashvin27/react-datatable/badge.svg?targetFile=package.json)](https://snyk.io/test/github/ashvin27/react-datatable?targetFile=package.json)
+
 
 ReactDatatable is a component which provide ability to create multifunctional table using single component like jQuery Datatable. It's fully customizable and easy to integrate in any react component. Bootstrap compatible.
 
@@ -20,15 +19,15 @@ ReactDatatable is a component which provide ability to create multifunctional ta
 ## Installation
 With [npm](https://npmjs.org/) installed, run
 ```
-npm i @ashvin27/react-datatable
+npm i @mkikets/react-datatable
 ```
 
 ## Usage
 
 ```js
 import React, { Component, Fragment } from 'react';
-import { render} from 'react-dom';
-import ReactDatatable from '@ashvin27/react-datatable';
+import { render } from 'react-dom';
+import ReactDatatable from '@mkikets/react-datatable';
 
 class App extends Component {
     constructor(props) {

@@ -1,22 +1,18 @@
 {
-  "name": "@ashvin27/react-datatable",
-  "version": "1.5.3",
+  "name": "@mkikets/react-datatable",
+  "version": "1.5.4",
   "description": "ReactDatatable is a component which provide ability to create multifunctional table using single component like jQuery Datatable",
   "main": "./lib/index.js",
-  "author": {
-    "name": "Ashvin Patel",
-    "email": "patelash212@gmail.com",
-    "url": "https://github.com/ashvin27"
-  },
+  "author": "Mykola Kikets mykola.kikets@gmail.com",
   "license": "MIT",
   "homepage": "http://react-datatable.in",
   "bugs": {
-    "url": "https://github.com/ashvin27/react-datatable/issues",
-    "email": "patelash212@gmail.com"
+    "url": "https://github.com/mkikets99/react-datatable/issues",
+    "email": "mykola.kikets@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashvin27/react-datatable.git"
+    "url": "https://github.com/mkikets99/react-datatable.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -67,5 +63,6 @@
     "react",
     "reactjs"
   ],
+  "private":false,
   "snyk": true
 }
