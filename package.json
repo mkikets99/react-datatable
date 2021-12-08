@@ -1,6 +1,6 @@
 {
   "name": "@mkikets/react-datatable",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "ReactDatatable is a component which provide ability to create multifunctional table using single component like jQuery Datatable",
   "main": "./lib/index.js",
   "author": "Mykola Kikets mykola.kikets@gmail.com",
